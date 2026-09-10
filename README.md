@@ -9,4 +9,4 @@ Versionamento
 
 ##Nova Branch
 
-Nessa versão estou testando uma nova funcionalidade.
+Nessa versão estou testando uma nova funcionalidade. edição 
